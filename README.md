@@ -42,7 +42,7 @@ intento de restauración. Su valor es siempre $0.
 
 Las obras Sanas no ven su valor afectado.
 
-* 2) Restaurar una obra: obra.restaurar(presupuestoDisponible)
+2) Restaurar una obra: obra.restaurar(presupuestoDisponible)
 
 Dada una obra y un valor numérico representante del presupuesto disponible, 
 realizar un proceso de restauración:
@@ -56,7 +56,7 @@ Las obras Sanas no se ven afectadas por el proceso de restauración y quedan igu
 
 Las obras Arruinadas NO PUEDEN ser restauradas e intentarlo constituye un error.
 
-* 3) Consultas a la Galería
+3) Consultas a la Galería
 
 Agregar al modelo un nuevo objeto que represente a la Galería, la cual contiene 
 el conjunto de las obras que posee y una interfaz adecuada para responder 
@@ -71,7 +71,7 @@ a las siguientes consultas:
     que la galería sólo expone las obras sanas y las obras deterioradas 
     con menos de 30 puntos de deterioro que valgan menos de $100,000.
 
-* 4) Frescos
+4) Frescos
 
 Aparece un nuevo tipo de obra: los Frescos. Estas obras son pinturas realizadas directamente
 sobre el yeso (fresco) de una pared, lo cual las hace más frágiles, pero también 
